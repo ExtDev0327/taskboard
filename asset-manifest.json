@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/drag-and-drop-taskboard/static/js/main.1afa89e2.chunk.js",
-    "main.js.map": "/drag-and-drop-taskboard/static/js/main.1afa89e2.chunk.js.map",
+    "main.js": "/drag-and-drop-taskboard/static/js/main.439237b1.chunk.js",
+    "main.js.map": "/drag-and-drop-taskboard/static/js/main.439237b1.chunk.js.map",
     "runtime-main.js": "/drag-and-drop-taskboard/static/js/runtime-main.8eab6775.js",
     "runtime-main.js.map": "/drag-and-drop-taskboard/static/js/runtime-main.8eab6775.js.map",
     "static/css/2.c51d807b.chunk.css": "/drag-and-drop-taskboard/static/css/2.c51d807b.chunk.css",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8eab6775.js",
     "static/css/2.c51d807b.chunk.css",
     "static/js/2.b1f311e0.chunk.js",
-    "static/js/main.1afa89e2.chunk.js"
+    "static/js/main.439237b1.chunk.js"
   ]
 }
